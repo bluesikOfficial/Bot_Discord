@@ -1,3 +1,5 @@
+Type -> !ajuda
+
 ----------------------English---------------------------
 !votekick @<user name> @<role> <reason>
 To initiate a Role kick out.
